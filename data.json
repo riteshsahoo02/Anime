@@ -1,0 +1,104 @@
+{
+    "characters":[
+        {
+            "name": "Gojo Satoru",
+            "power":"Infinite Void",
+            "image":"jjk_images/gojo_1.jpg"
+        },
+        {
+            "name": "Yuta",
+            "power":"Cursed person",
+            "image":"jjk_images/yuta_1.jpg"
+        },
+        {
+            "name": "Nobara Kugisaki",
+            "power":"Resonance",
+            "image":"jjk_images/nobara_1.jpg"
+        },
+        {
+            "name": "Miwa",
+            "power":"Simple Domain ",
+            "image":"jjk_images/miwa_1.jpg"
+        },
+        {
+            "name": "Mai",
+            "power":"Guns",
+            "image":"jjk_images/mai_1.jpg"
+        },
+        {
+            "name": "Utahime",
+            "power":"Sword",
+            "image":"jjk_images/utahime_1.jpg"
+        },
+        {
+            "name": "Megumi",
+            "power":"Shikigami",
+            "image":"jjk_images/megumi_1.jpg"
+        },
+        {
+            "name": "Itadori",
+            "power":"Unknown power",
+            "image":"jjk_images/itadori_1.jpg"
+        },
+        {
+            "name": "Inumaki",
+            "power":"Cused voice",
+            "image":"jjk_images/inumaki_1.jpg"
+        },
+        {
+            "name": "Todou",
+            "power":"Boogie Woogie",
+            "image":"jjk_images/todou_1.jpg"
+        },
+        {
+            "name": "Nanami",
+            "power":"Kill with 7:3",
+            "image":"jjk_images/nanami_1.jpg"
+        },
+        {
+            "name": "Mechamaru",
+            "power":"No Cursed Technique",
+            "image":"jjk_images/mechamaru_1.jpg"
+        },
+        {
+            "name": "Panda",
+            "power":"Power of three",
+            "image":"jjk_images/panda_1.jpg"
+        },
+        {
+            "name": "Choso",
+            "power":"Blood sickle",
+            "image":"jjk_images/choso_1.jpg"
+        },
+        {
+            "name": "Geto Suguru",
+            "power":"Curse energy absorber",
+            "image":"jjk_images/suguru_1.jpg"
+        },
+        {
+            "name": "Jogo",
+            "power":"Heat Domain",
+            "image":"jjk_images/jogo_1.jpg"
+        },
+        {
+            "name": "Hanami",
+            "power":"Shikigami",
+            "image":"jjk_images/hanami_1.jpg"
+        },
+        {
+            "name": "Mahito",
+            "power":"Curse Body Manipulation",
+            "image":"jjk_images/mahito_1.jpg"
+        },
+        {
+            "name": "Megumi",
+            "power":"Shikigami",
+            "image":"jjk_images/megumi_1.jpg"
+        },
+        {
+            "name": "Ryomen Sukuna",
+            "power":"Malevolent Shrine",
+            "image":"jjk_images/sukuna_1.jpg"
+        }
+    ]
+}
