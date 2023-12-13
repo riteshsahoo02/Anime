@@ -1,104 +1,144 @@
-{
-    "characters":[
-        {
+[
+        {   "id": 0,
             "name": "Gojo Satoru",
             "power":"Infinite Void",
             "image":"jjk_images/gojo_1.jpg"
         },
-        {
-            "name": "Yuta",
-            "power":"Cursed person",
+        {   "id": 1,
+            "name": "Yuta Okkotsu",
+            "power":"Copy",
             "image":"jjk_images/yuta_1.jpg"
         },
-        {
+        {   "id":2,
             "name": "Nobara Kugisaki",
-            "power":"Resonance",
+            "power":"Straw Doll Technique",
             "image":"jjk_images/nobara_1.jpg"
         },
-        {
+        {   "id":3,
             "name": "Miwa",
             "power":"Simple Domain ",
             "image":"jjk_images/miwa_1.jpg"
         },
-        {
+        {   "id":4,
+            "name": "Maki",
+            "power":"Immense Physical Strength & abilities",
+            "image":"jjk_images/maki_1.jpg"
+        },
+        {   "id":5,
             "name": "Mai",
-            "power":"Guns",
+            "power":"Construction",
             "image":"jjk_images/mai_1.jpg"
         },
-        {
+        {   "id":6,
             "name": "Utahime",
-            "power":"Sword",
+            "power":"Solo Foridden Area",
             "image":"jjk_images/utahime_1.jpg"
         },
-        {
+        {   "id":7,
+            "name": "Mei Mei",
+            "power":"Black Bird Manipulation",
+            "image":"jjk_images/meimei_1.jpg"
+        },
+        {   "id":8,
+            "name": "Shoko",
+            "power":"Reversed Cursed Energy",
+            "image":"jjk_images/shoko_1.jpg"
+        },
+        {   "id":9,
+            "name": "Yuki Tsukumo",
+            "power":"Star Rage",
+            "image":"jjk_images/tsukumo_1.jpg"
+        },
+        {   "id":10,
             "name": "Megumi",
-            "power":"Shikigami",
+            "power":"Ten Shadows",
             "image":"jjk_images/megumi_1.jpg"
         },
-        {
+        {   "id":11,
             "name": "Itadori",
-            "power":"Unknown power",
+            "power":"Superhuman physical abilities",
             "image":"jjk_images/itadori_1.jpg"
         },
-        {
+        {   "id":12,
             "name": "Inumaki",
-            "power":"Cused voice",
+            "power":"Cused speech",
             "image":"jjk_images/inumaki_1.jpg"
         },
-        {
-            "name": "Todou",
+        {   "id":13,
+            "name": "Aoi Todou",
             "power":"Boogie Woogie",
             "image":"jjk_images/todou_1.jpg"
         },
-        {
-            "name": "Nanami",
-            "power":"Kill with 7:3",
+        {   "id":14,
+            "name": "Kento Nanami",
+            "power":"Ratio",
             "image":"jjk_images/nanami_1.jpg"
         },
-        {
+        {   "id":15,
             "name": "Mechamaru",
-            "power":"No Cursed Technique",
+            "power":"Cursed energy beams",
             "image":"jjk_images/mechamaru_1.jpg"
         },
-        {
+        {   "id":16,
             "name": "Panda",
-            "power":"Power of Three",
+            "power":"Three cores of cursed energy",
             "image":"jjk_images/panda_1.jpg"
         },
-        {
+        {   "id":17,
+            "name": "Nanako",
+            "power":"manipulate Photographed subject",
+            "image":"jjk_images/nanako_1.jpg"
+        },
+        {   "id":18,
+            "name": "Mimiko",
+            "power":"hanging targets using noose and stuffed toy",
+            "image":"jjk_images/mimiko_1.jpg"
+        },
+        {   "id":19,
             "name": "Choso",
-            "power":"Blood sickle",
+            "power":"Blood piercing",
             "image":"jjk_images/choso_1.jpg"
         },
-        {
+        {   "id":20,
             "name": "Geto Suguru",
-            "power":"Curse energy absorber",
+            "power":"Curse energy Manipulation",
             "image":"jjk_images/suguru_1.jpg"
         },
-        {
+        {   "id":21,
             "name": "Jogo",
-            "power":"Heat Domain",
+            "power":"Disaster Flames",
             "image":"jjk_images/jogo_1.jpg"
         },
-        {
+        {   "id":22,
             "name": "Hanami",
-            "power":"Shikigami",
+            "power":"Disaster Plants",
             "image":"jjk_images/hanami_1.jpg"
         },
-        {
+        {   "id":23,
             "name": "Mahito",
-            "power":"Curse Body Manipulation",
+            "power":"Idle Transfiguration",
             "image":"jjk_images/mahito_1.jpg"
         },
-        {
-            "name": "Megumi",
-            "power":"Shikigami",
-            "image":"jjk_images/megumi_1.jpg"
-        },
-        {
+        {   "id":24,
             "name": "Ryomen Sukuna",
             "power":"Malevolent Shrine",
             "image":"jjk_images/sukuna_1.jpg"
+        },
+        {   "id":25,
+            "name": "Miguel",
+            "power":"Sword",
+            "image":"jjk_images/miguel_1.jpg"
+        },
+        {
+            "id":26,
+            "name":"Naobito",
+            "power":"Projection Sorcery",
+            "image":"jjk_images/naobito_1.jpg"
+        },
+        {
+            "id":27,
+            "name":"Toji",
+            "power":"Immense Strength",
+            "image": "jjk_images/toji_1.jpg"
         }
-    ]
-}
+]
