@@ -1,0 +1,86 @@
+[
+    {
+      "response_type": "greeting",
+      "user_input": ["hello", "hi", "hey"],
+      "bot_response": "Hey there!",
+      "required_words": []
+    },
+    {
+      "response_type": "greeting",
+      "user_input": ["see you", "goodbye", "bye"],
+      "bot_response": "See you later!",
+      "required_words": []
+    },
+    {
+      "response_type": "greeting",
+      "user_input": ["nice", "to", "meet", "you"],
+      "bot_response": "The pleasure is all mine!",
+      "required_words": ["nice", "meet", "you"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["how", "to", "learn", "code", "coding", "apps"],
+      "bot_response": "Start by typing: 'How to learn coding' on Google.",
+      "required_words": ["learn", "code"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["how", "are", "you"],
+      "bot_response": "I'm great! Thanks for asking.",
+      "required_words": ["how", "are", "you"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["who", "is", "known","as","missile","man","of","india"],
+      "bot_response": "Respected A.P.J Abdul Kalam",
+      "required_words": ["missile", "man","india"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["who", "are", "you"],
+      "bot_response": "I'm Ani chatbot",
+      "required_words": ["who", "are", "you"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["who", "created", "you"],
+      "bot_response": "That's classified.",
+      "required_words": ["created","you"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["can","you","help","me"],
+      "bot_response": "Yeah sure, how may i help you",
+      "required_words": ["help", "me"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["what","are","the","different","courses","the","college","have"],
+      "bot_response": "The college offers:\tBtech\tMBA\tPGDM\tBCA",
+      "required_words": ["courses"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["what","is","the","nirf","ranking"],
+      "bot_response": "You can check that information in the website of the college.",
+      "required_words": ["nirf", "ranking"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["How","can","one","take","admission","in","college"],
+      "bot_response":"You can do the following for admission:\n1.) Fill the application form online in the college's website.\n2.) Through AKTU/JEE MAINS Counselling.\n3.) Go to college directly",
+      "required_words": ["take","admission"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["what","are","the","branches","in","btech"],
+      "bot_response":"Following are the branches of Btech you can pursue:\na)B.Tech in CSE\nb)B.Tech in CSE(AIML)\nc)B.Tech in CSE(AI)\nd)B.Tech in CSE(AIDS)\ne)B.Tech in Mechanical Engineering\nf)B.Tech in Electronics and Communication Engineering\ng)B.Tech in Civil Enginnering",
+      "required_words": ["branches","in","btech"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["tell","me","something","about","college"],
+      "bot_response":"The college campus is lush green filled with trees\nfaculty is well educated\nproper ventilated classrooms\na silent library for your studies\nCanteen for your food hunger",
+      "required_words": ["about", "college"]
+    }
+  ]
